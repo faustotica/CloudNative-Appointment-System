@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="AppointmentManager.API/AppointmentManager.API.csproj" />
+  <Project Path="AppointmentManager.Core/AppointmentManager.Core.csproj" />
+  <Project Path="AppointmentManager.Infrastructure/AppointmentManager.Infrastructure.csproj" />
+  <Project Path="AppointmentManager.Services/AppointmentManager.Services.csproj" />
+  <Project Path="AppointmentManager.Application/AppointmentManager.Application.csproj" />
+  <Project Path="AppointmentManager.Tests/AppointmentManager.Tests.csproj" />
+  <Project Path="AppointmentManager.Worker/AppointmentManager.Worker.csproj" />
+</Solution>
